@@ -1,2 +1,7 @@
 # vicinivicini
 
+
+
+## todo
+
+ - containerize backend
